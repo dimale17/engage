@@ -5,6 +5,10 @@
     {
       "appID": "TXW9FUZCT3.com.customedialabs.MomencioApp.debug",
       "paths": ["*"]
+    },
+      {
+      "appID": "TXW9FUZCT3.com.customedialabs.MomencioApp.dev",
+      "paths": ["*"]
     }
     ]
   }
