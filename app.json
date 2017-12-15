@@ -1,7 +1,7 @@
 {
-	"name": "CML Engage",
-	"description": "An app",
-	"repository": "https://git.heroku.com/cml-eng.git",
-	"logo": "https://cml-eng.herokuapp.com/logo.png",
+	"name": "momencio",
+	"description": "CML",
+	"repository": "",
+	"logo": "",
 	"keywords": ["CML", "universal links"]
 }
