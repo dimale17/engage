@@ -2,16 +2,20 @@
   "applinks": {
     "apps": [],
     "details": [
-     {
-      "appID": "TXW9FUZCT3.com.customedialabs.Engagement",
+    {
+      "appID": "5RT7C2WYWK.com.customedialabs.MomencioApp",
+      "paths": ["*"]
+    },
+    {
+      "appID": "TXW9FUZCT3.com.customedialabs.MomencioApp.dev",
       "paths": ["*"]
     },
     {
       "appID": "TXW9FUZCT3.com.customedialabs.MomencioApp.debug",
       "paths": ["*"]
     },
-      {
-      "appID": "TXW9FUZCT3.com.customedialabs.MomencioApp.dev",
+    {
+      "appID": "TXW9FUZCT3.com.customedialabs.Engagement",
       "paths": ["*"]
     }
     ]
