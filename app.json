@@ -1,7 +1,7 @@
 {
 	"name": "momencio",
 	"description": "CML",
-	"repository": "https://git.heroku.com/cml-eng.git",
+	"repository": "https://git.heroku.com/cml-all.git",
  +	"logo": "https://cml-eng.herokuapp.com/logo.png",
 	"keywords": ["CML", "universal links"]
 }
